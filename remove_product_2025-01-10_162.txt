@@ -1,0 +1,1 @@
+Remove product search for refactor (critical) - Implemented a new feature to enhance product search.
