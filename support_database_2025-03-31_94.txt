@@ -1,0 +1,1 @@
+Support database queries for endpoint (minor) - Implemented a new feature to enhance database queries.
