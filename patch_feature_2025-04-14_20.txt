@@ -1,0 +1,1 @@
+Patch feature toggle for session (complex) - Implemented a new feature to enhance feature toggle.
