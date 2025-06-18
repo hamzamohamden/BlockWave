@@ -1,0 +1,1 @@
+Clean email verification for bugfix (major) - Implemented a new feature to enhance email verification.
