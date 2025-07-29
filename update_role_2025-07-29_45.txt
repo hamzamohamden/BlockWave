@@ -1,0 +1,1 @@
+Update role management for refactor (major) - Implemented a new feature to enhance role management.
