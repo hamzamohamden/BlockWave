@@ -1,0 +1,1 @@
+Patch product search for endpoint (quick) - Implemented a new feature to enhance product search.
