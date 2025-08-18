@@ -1,0 +1,1 @@
+Patch session timeout for middleware (major) - Implemented a new feature to enhance session timeout.
