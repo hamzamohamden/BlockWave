@@ -1,0 +1,1 @@
+Optimize user authentication for session (major) - Implemented a new feature to enhance user authentication.
