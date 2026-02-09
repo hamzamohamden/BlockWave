@@ -1,0 +1,1 @@
+Support build pipeline for validation (quick) - Implemented a new feature to enhance build pipeline.
